@@ -5,6 +5,11 @@
     "version": "1.0.0",
     "owner": "pak652931-cyber",
     "scheme": "memetlive",
+    "extra": {
+      "eas": {
+        "projectId": "oelzg1gev5-z1wq7urw"
+      }
+    },
     "android": {
       "package": "com.memetlive.app",
       "versionCode": 1,
