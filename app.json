@@ -5,9 +5,6 @@
     "version": "1.0.0",
     "owner": "pak652931-cyber",
     "scheme": "memetlive",
-    "cli": {
-      "appVersionSource": "remote"
-    },
     "android": {
       "package": "com.memetlive.app",
       "versionCode": 1,
